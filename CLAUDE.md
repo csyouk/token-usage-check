@@ -5,7 +5,7 @@
   - 작업 시간(포맷 : mm)
   - 프롬프트
   - 토큰 사용량
-  - 위 3가지를 정리하여 markdown 표로 작성한 후, **claude-token-usage.md** 에 추가한다.
+  - 위 4가지를 정리하여 markdown 표로 작성한 후, **claude-token-usage.md** 에 추가한다.
   - **claude-token-usage.md** 에 표가 있다면 행을 추가하고(최신 작업이 가장 위로 오도록), 없다면 아래  template 으로 부터 시작한다.
 
 ### Template
